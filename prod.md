@@ -50,6 +50,7 @@ The 1,500-student mess cooks for about 85% of enrolment, while attendance is app
 - R19: One credit for each on-time RSVP; opt-out bonus: breakfast +3, lunch +1, dinner +0.
 - R20: Log credit settles at 9 PM; opt-out bonus settles after meal close only if the student was not served.
 - R21: Reliability starts at 5, drops by 1 per late pass, blocks bonus credits below 3, and recovers by 1 per 5 honoured opt-outs (maximum 5).
+- IMPORTANT: Only consider which option chosen at meal Lock, and add only that particular amount to pending reward. eg: if Skip was chosen first, then changed to Eat (before lock), only add the rewards from Eat into the pending amount (don't add Skip's reward)
 
 ### Impact and demo (R22–R28)
 - R22: Show cooked/eaten kg, waste today vs product, kg and ₹ saved, credits paid, net savings and shortages.
