@@ -98,7 +98,7 @@ For meal `m`, attendance `a`, eat/skip counts and `n = 1500 − eat − skip`:
 
 ## Clock, credits and door rules
 - Tomorrow accepts RSVPs before current day’s 21:00 lock; current-day meals are read-only. Manager defaults to tomorrow at/after 21:00, otherwise today; before lock, tomorrow shows “Not locked yet, live preview”.
-- Each on-time eat or skip RSVP awards 1 credit- creates a pending reward and increases pending amount. At 9PM : pay/add pending reward to balance
+- Each on-time eat or skip RSVP awards 1 credit- adds value of 1 credit to the pending amount. At 9PM : pay/add pending reward to balance
 - At lock, each demo student’s Skip creates a pending reward and increases pending amount. At meal close: skipped and not served + reliability ≥3 → pay/add pending reward to balance, increment honoured opt-outs; at 5, reliability +1 (max 5) and reset count. Late-pass service voids reward. Reliability below 3 withholds bonus. Pending and balance remain separate.
 - Late pass: reliability −1 (minimum 0), honoured-opt-out count reset, scan marked late pass, bonus voided at close.
 - Redeem at ₹50 or more: deduct ₹50, record redemption and show code formed from student number and day (e.g. `S004-D0`).
