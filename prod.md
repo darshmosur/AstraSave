@@ -1,7 +1,7 @@
 # AstraSave — Product Requirements (`prod.md`)
 
 ## Product
-**AstraSave** is a hostel-mess meal RSVP and credits web app. It helps the mess manager estimate meal quantities before the 9 PM cutoff, reduce food waste, and avoid shortages. Owner: Team LOMFC. Source PRD dated 22 Oct 2026.
+**AstraSave** is a hostel-mess meal RSVP and credits web app. It helps the mess manager estimate meal quantities before the 9 PM cutoff, reduce food waste, and avoid shortages.
 
 ## Problem
 The 1,500-student mess cooks for about 85% of enrolment, while attendance is approximately 55% at breakfast, 70% at lunch and 80% at dinner. The case estimates 398 kg/day of waste, including 300 kg cooked but never served, worth roughly ₹7.2 lakh/month at ₹60/kg. Target: halve waste this semester without anyone going hungry. Figures are illustrative case assumptions.
