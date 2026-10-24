@@ -109,7 +109,7 @@ Use the following strings verbatim; interpolate only the values in braces.
 |---|---|
 | Lock before | `Locks at 9:00 PM tonight, in {time left}` |
 | Lock after | `Locked at 9:00 PM. At the door, ask for a late pass` |
-| Eat caption | `Eat: you are counted in. No reward, just tell the kitchen` |
+| Eat caption | `Eat: you are counted in. 1 log credit awarded!` |
 | Skip caption | `Skip before 9 PM and stay away: earn ₹{reward} after the meal` |
 | Reward pending | `₹{amount} pending until the meal closes` |
 | Reward paid | `₹{amount} paid` |
