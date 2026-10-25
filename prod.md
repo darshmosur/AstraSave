@@ -36,7 +36,7 @@ The 1,500-student mess cooks for about 85% of enrolment, while attendance is app
 
 ### Manager (R9–R14)
 - R9: Per meal show confirmed eaters, confirmed skips, non-responders and cook quantity in plates and kg.
-- R10: Cooking quantity must be at least confirmed eaters × 0.4 kg and normally no more than the standard 510 kg batch; the popular-meal flag may raise the cap.
+- R10: Cooking quantity must be at least confirmed eaters × 0.4 kg and normally no more than the standard 510 kg or 561 kg for the flagged popular meal; overrides obey these limits
 - R11: Select +5%, +8% or +10% RSVP buffer; toggle exam week and popular dish; update all numbers immediately.
 - R12: Optional quantity override within ±15%, with a reason; the minimum confirmed-eater floor still applies.
 - R13: Show a simulated WhatsApp-style kitchen summary (no actual sending).
